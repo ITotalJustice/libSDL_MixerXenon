@@ -6,3 +6,14 @@ to build and install, run:
 ```sh
 make -f Makefile.xenon install
 ```
+
+## Demo
+
+to build the demo:
+
+```sh
+cd Demo/playmus
+make
+```
+
+i haven't tried the demo myself (no xbox) so unsure if it works
